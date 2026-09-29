@@ -16,4 +16,4 @@ Quickselect is a variation of quicksort. It picks a pivot, partitions the array 
 Average time complexity is O(n), worst case O(n²).
 
 
-Project for the ***Computer Organization course***, Department of Electrical & Computer Engineering (**THMMY**), **Aristotle University of Thessaloniki**.
+Project for the ***Computer Organization course***, Department of Electrical & Computer Engineering -**THMMY**, **Aristotle University of Thessaloniki**.
